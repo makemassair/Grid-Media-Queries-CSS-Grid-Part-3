@@ -20,7 +20,7 @@ To make a responsive breakpoint using `media-query`, targeting a screen size wit
 
 ### Deployed Website
 
-View the deployed application for week-2: Grid-Media-Queries-CSS-Grid-Part-3 at makemassair.github.io.
+View the deployed application for week-2: Grid-Media-Queries-CSS-Grid-Part-3 at [makemassair.github.io](https://makemassair.github.io/Grid-Media-Queries-CSS-Grid-Part-3/).
 
 ### Screenshot
 
